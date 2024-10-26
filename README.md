@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ade7ff&height=180&text=kshhyun&animation=&fontColor=fffffa&fontSize=70" />
 
 # Hi there, I'm Hyunny👋
-[![Gmail Badge](https://img.shields.io/badge/-tjgus8288508@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tjgus8288508@gmail.com)](mailto:tjgus8288508@gmail.com) [![Portfolio Badge](https://img.shields.io/badge/portfolio-blue?style=flat-square&logo=filedotio&logoColor=white&link=https://my.surfit.io/w/836489376/)](https://my.surfit.io/w/836489376/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kshhyun%2Fgjbae1212%2Fhit-counter&count_bg=%2399C6E3&title_bg=%23C8D2D9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com) [![Gmail Badge](https://img.shields.io/badge/-tjgus8288508@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tjgus8288508@gmail.com)](mailto:tjgus8288508@gmail.com) [![Portfolio Badge](https://img.shields.io/badge/portfolio-blue?style=flat-square&logo=filedotio&logoColor=white&link=https://my.surfit.io/w/836489376/)](https://my.surfit.io/w/836489376/)
 </br></br></br>
 
 ## 🛠️ Tech Stacks
